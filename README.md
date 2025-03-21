@@ -1,6 +1,7 @@
 
 # Digital-Clock
 PROJECT OVERVIEW:
+
 This project is a 24-hour digital clock designed and simulated in Multisim. The clock displays hours, minutes, and seconds using T flipflops, logic gates, and 7-segment displays. It follows a modular design, where each section (seconds, minutes, hours) is implemented using counter by T flipflops. 
 
 FEATURES:
